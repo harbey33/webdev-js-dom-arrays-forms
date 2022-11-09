@@ -1,1 +1,3 @@
-document.getElementById("myHeading").innerHTML = "Harvey"
+(function(){
+    document.getElementById("myHeading").innerHTML = "Harvey"
+})()
